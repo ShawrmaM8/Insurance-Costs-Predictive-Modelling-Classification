@@ -1,5 +1,5 @@
 # Insurance-Costs-Predictive-Modelling-Classification
-Predicting Insurance costs using a dataset and classifying whether the patient is high-cost or not.
+Predicting Insurance costs using a dataset and classifying whether the patient is high-cost or not. And determining impact on insurance firms & patient well-being.
 
 ## Goal: Predictive Cost Modelling + Classification with a priority to accurately capture all patient cases
 ### Why?
